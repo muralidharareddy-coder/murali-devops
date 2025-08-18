@@ -1,2 +1,1 @@
 I am learning Aws devops course
-This file was created for demonstrating git for previous batch
