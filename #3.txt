@@ -1,0 +1,7 @@
+Started by user P MuralidharaReddy
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/hello world
+[hello world] $ /bin/sh -xe /tmp/jenkins14259976561562286520.sh
++ echo 'welcome to jenkins'
+welcome to jenkins
+Finished: SUCCESS
